@@ -22,7 +22,7 @@ Each folder `LabX` includes the **official laboratory instructions** and the **r
 Each `LabX` folder contains:
 - 📄 **Lab instructions (.pdf)** – the original handout describing the objectives and required tasks (format:Lab<n>.pdf) .  
 - 🧠 **Report** – our written analysis and results for the corresponding lab (format: gr1_lab<n>.pdf).  
-- 🧰 **Simulation or code files** – when applicable (e.g., LTspice circuits, QTCAD scripts, Python notebooks).
+- 🧰 **Simulation or code files** – when applicable (not uploaded yet).
 
 ---
 
